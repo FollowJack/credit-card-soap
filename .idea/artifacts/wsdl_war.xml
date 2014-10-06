@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="wsdl:war">
+    <output-path>$PROJECT_DIR$/wsdl/target</output-path>
+    <root id="archive" name="wsdl-1.0.war">
+      <element id="artifact" artifact-name="wsdl:war exploded" />
+    </root>
+  </artifact>
+</component>
