@@ -12,6 +12,7 @@
 
     <modules>
         <module>wsdl</module>
+        <module>consumer</module>
         <!--<module>consumer</module>
         <module>ejb</module>
         <module>service</module>-->
